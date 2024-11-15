@@ -26,6 +26,6 @@
 ------------
 <body>
     <div class="message">
-        Feel free to connect with me
+        Feel free to connect with me!
     </div>
 </body>
