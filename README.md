@@ -2,10 +2,11 @@
 
 
 <p>Welcome to my page! </br> I'm Antonio, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Tocantins, Brasil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Toronto, Canada</b>. </p>
-<h3>Things I code with</h3>
+
 <p>
 
   <p align="center">
+    <h3>Some tech I know and use:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
