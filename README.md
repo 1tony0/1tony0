@@ -8,7 +8,7 @@
   <p align="center">
     <h3>Some tech I know and use:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aiscript,,anaconda,apple,angular,arduino,autocad,aws,bash,azure,bitbucket,c,cpp,cs,clion,make,css,emacs,gcp,,github,go,tensorflow,opencv,linux,ai" />
   </a>
 </p>
 </p>
