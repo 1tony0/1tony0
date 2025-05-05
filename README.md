@@ -13,14 +13,13 @@
 </p>
 </p>
 
-
+![Github Stats](https://greptile-stats.vercel.app/api/widget/1tony0/stats)
 </p>
 You can find me @:
 </p>
 <p><a href="https://github.com/1tony0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/tonioosouza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/antonio-henrique-souza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/1tony0/stats)
 ------------
 <body>
     <div class="message">
