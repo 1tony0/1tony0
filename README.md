@@ -3,7 +3,7 @@
  
 <p>Welcome to my page! </br> I'm Antonio, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Tocantins, Brasil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Toronto, Canada</b>. </p>
 
-<p>
+<p> 
 
   <p align="center">
     <h3>Some tech I know and use:</h3>
