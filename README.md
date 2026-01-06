@@ -13,7 +13,7 @@
 </p>
 </p>
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/1tony0/stats)
+
 </p>
 You can find me @:
 </p>
